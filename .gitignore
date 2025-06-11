@@ -1,0 +1,32 @@
+# R session and temporary files
+.RData
+.RDataTmp
+.RDataTmp1
+.Rhistory
+.Rproj.user/
+
+# OS-specific system files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE backups
+*~
+
+# Project-specific data (excluded from version control)
+Haiti/data/
+Vietnam/data/
+*.png
+
+# Rendered Markdown/Quarto artifacts (optional)
+*.utf8.md
+*.knit.md
+*.nb.html
+
+# R package build artifacts and logs
+.Rcache/
+.Rcheck/
+*.log
+
+# Optional: Ignore Quarto cache and outputs
+# _site/
+# _cache/
