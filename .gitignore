@@ -13,9 +13,7 @@ Thumbs.db
 *~
 
 # Project-specific data (excluded from version control)
-Haiti/data/
-Vietnam/data/
-*.png
+Racoon_rabies/
 
 # Rendered Markdown/Quarto artifacts (optional)
 *.utf8.md
